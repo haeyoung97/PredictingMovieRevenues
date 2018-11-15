@@ -12,7 +12,8 @@
 
 ## 분석 방법
 1. 군집화 - LDA 모델링
-  (문서에 포함된 단어를 빈도수에 따라 서로 연관짓고 분류한다\n
+  (문서에 포함된 단어를 빈도수에 따라 서로 연관짓고 분류한다
+  
 2 Keyword 분석 - Word Clouds
   (Word Clouds를 사용한 텍스트 데이터 시각화)
 3 Data 추출 & Remove Outliers
