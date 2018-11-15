@@ -16,9 +16,12 @@
   
 2 Keyword 분석 - Word Clouds
   (Word Clouds를 사용한 텍스트 데이터 시각화)
+  
 3 Data 추출 & Remove Outliers
   (신뢰성 구축을 위해 Outlier 제거 & 측정할 수 없는 값은 배제)
+  
 4 각 군집(Topic)에 따른 투표율 & 평점 그래프
+
 5 Curve Fitting / 관람객 수에 따른 순수익 그래프
 
 ## 기대효과
