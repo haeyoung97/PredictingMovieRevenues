@@ -14,15 +14,15 @@
 1. 군집화 - LDA 모델링
   (문서에 포함된 단어를 빈도수에 따라 서로 연관짓고 분류한다
   
-2 Keyword 분석 - Word Clouds
+2. Keyword 분석 - Word Clouds
   (Word Clouds를 사용한 텍스트 데이터 시각화)
   
-3 Data 추출 & Remove Outliers
+3. Data 추출 & Remove Outliers
   (신뢰성 구축을 위해 Outlier 제거 & 측정할 수 없는 값은 배제)
   
-4 각 군집(Topic)에 따른 투표율 & 평점 그래프
+4. 각 군집(Topic)에 따른 투표율 & 평점 그래프
 
-5 Curve Fitting / 관람객 수에 따른 순수익 그래프
+5. Curve Fitting / 관람객 수에 따른 순수익 그래프
 
 ## 기대효과
 **제작자 또는 배우의 입장에서 특정 장르의 영화를 제작 & 출연하고자 할 때. 성공하기 위해 어떤 키워드를 가진 영화를 제작 & 출연해야하는가**
